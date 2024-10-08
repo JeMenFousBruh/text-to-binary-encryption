@@ -15,7 +15,7 @@ This is a simple, hacker-themed web tool that converts plaintext into encrypted 
 1. **Enter Text**: Type your message in the `Enter text` box.
 2. **Set the Key**: Provide a number of bits for encryption (e.g., 7, 8, etc.).
 3. **Encrypt**: Click the `Encrypt` button to generate the binary representation of your text.
-4. **Copy Binary**: Click the `Copy Binary` button to copy the generated binary output to your clipboard.
+4. **Copy Binary**: Click the `Copy` button to copy the generated binary output to your clipboard.
 
 ## Demo
 
