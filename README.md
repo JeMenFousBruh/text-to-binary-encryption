@@ -49,5 +49,4 @@ Feel free to submit issues or pull requests if you want to improve the tool or a
 ---
 
 **Author**: [JeMenFousBruh]  
-**GitHub**: [https://github.com/JeMenFousBruh](https://github.com/JeMenFousBruh)  
-**Contact**: [Your Email Address]
+**GitHub**: [https://github.com/JeMenFousBruh](https://github.com/JeMenFousBruh) 
